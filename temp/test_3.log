@@ -1,0 +1,27 @@
+nohup: ignoring input
+job begin
+26-09-27 21:31:00.194 - INFO: Epoch 0: loss=34.752621 msg_BER=0.041705 val_BER=0.037034 clean_PSNR=10.984 noisy_PSNR=12.245
+26-09-27 21:39:23.846 - INFO: Epoch 1: loss=20.214852 msg_BER=0.034261 val_BER=0.025757 clean_PSNR=13.464 noisy_PSNR=14.873
+26-09-27 21:47:59.345 - INFO: Epoch 2: loss=16.200833 msg_BER=0.029220 val_BER=0.026266 clean_PSNR=14.825 noisy_PSNR=16.045
+26-09-27 21:57:06.572 - INFO: Epoch 3: loss=18.071858 msg_BER=0.033367 val_BER=0.024131 clean_PSNR=15.479 noisy_PSNR=16.596
+26-09-27 22:05:26.614 - INFO: Epoch 4: loss=16.951967 msg_BER=0.031427 val_BER=0.025228 clean_PSNR=15.758 noisy_PSNR=16.864
+26-09-27 22:15:18.666 - INFO: Epoch 5: loss=16.836185 msg_BER=0.031617 val_BER=0.029174 clean_PSNR=16.120 noisy_PSNR=17.177
+26-09-27 22:23:30.101 - INFO: Epoch 6: loss=20.426802 msg_BER=0.038776 val_BER=0.050579 clean_PSNR=15.981 noisy_PSNR=17.197
+26-09-27 22:32:39.000 - INFO: Epoch 7: loss=17.547202 msg_BER=0.033263 val_BER=0.030609 clean_PSNR=16.213 noisy_PSNR=17.382
+26-09-27 22:40:59.225 - INFO: Epoch 8: loss=16.497389 msg_BER=0.031286 val_BER=0.028416 clean_PSNR=16.493 noisy_PSNR=17.593
+26-09-27 22:50:10.375 - INFO: Epoch 9: loss=15.786685 msg_BER=0.029987 val_BER=0.042315 clean_PSNR=16.682 noisy_PSNR=17.696
+26-09-27 22:58:32.917 - INFO: Epoch 10: loss=14.604647 msg_BER=0.027656 val_BER=0.040257 clean_PSNR=16.837 noisy_PSNR=17.764
+26-09-27 23:06:41.589 - INFO: Epoch 11: loss=14.964284 msg_BER=0.028406 val_BER=0.019132 clean_PSNR=16.952 noisy_PSNR=17.998
+26-09-27 23:15:00.674 - INFO: Epoch 12: loss=15.847451 msg_BER=0.030251 val_BER=0.033330 clean_PSNR=16.878 noisy_PSNR=17.888
+26-09-27 23:24:19.326 - INFO: Epoch 13: loss=15.824395 msg_BER=0.030174 val_BER=0.046879 clean_PSNR=17.259 noisy_PSNR=18.153
+26-09-27 23:33:36.140 - INFO: Epoch 14: loss=14.506995 msg_BER=0.027591 val_BER=0.035798 clean_PSNR=17.249 noisy_PSNR=18.147
+Traceback (most recent call last):
+  File "/root/autodl-tmp/FIN-main_new/train_combine.py", line 201, in <module>
+    torch.save(checkpoint, checkpoint_path)
+  File "/root/miniconda3/lib/python3.10/site-packages/torch/serialization.py", line 618, in save
+    with _open_zipfile_writer(f) as opened_zipfile:
+  File "/root/miniconda3/lib/python3.10/site-packages/torch/serialization.py", line 492, in _open_zipfile_writer
+    return container(name_or_buffer)
+  File "/root/miniconda3/lib/python3.10/site-packages/torch/serialization.py", line 463, in __init__
+    super().__init__(torch._C.PyTorchFileWriter(self.name))
+RuntimeError: Parent directory /root/autodl-tmp/FIN-main_new/experiments/combined_noise_4kb/1000-1 does not exist.

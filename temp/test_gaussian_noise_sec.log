@@ -1,0 +1,10 @@
+nohup: ignoring input
+job begin
+Checkpoint: experiments/combined_noise_4kb/gaussian_noise/1-50/ckpt_4kb_00126.pt
+Images: 100
+Clean PSNR: 36.5752 dB
+Clean SSIM: 0.997660
+Attack results:
+"JPEG_QF50": JpegTest(50),GaussianNoise_var0.02: ACC=0.978391, PSNR=23.2011, SSIM=0.950585
+Saved: results/test2017_gaussian/sec/test2017_results.csv
+job end

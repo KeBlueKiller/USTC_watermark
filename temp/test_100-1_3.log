@@ -1,0 +1,16 @@
+nohup: ignoring input
+job begin
+[RESUME] Loaded checkpoint: experiments/combined_noise_4kb/1000-1/ckpt_4kb_00076.pt
+[RESUME] Starting from epoch: 77
+[RESUME] Loaded checkpoint: experiments/combined_noise_4kb/1000-1/ckpt_4kb_00076.pt
+[RESUME] Starting from epoch: 77
+26-09-30 21:52:26.620 - INFO: Epoch 77: loss=1.716024 msg_BER=0.031980 val_BER=0.021582 clean_PSNR=20.225 noisy_PSNR=20.584
+26-09-30 22:00:14.681 - INFO: Epoch 78: loss=1.583435 msg_BER=0.029429 val_BER=0.052636 clean_PSNR=20.257 noisy_PSNR=20.744
+26-09-30 22:10:19.039 - INFO: Epoch 79: loss=1.579125 msg_BER=0.029036 val_BER=0.030958 clean_PSNR=20.280 noisy_PSNR=20.621
+26-09-30 22:18:02.214 - INFO: Epoch 80: loss=1.651389 msg_BER=0.030688 val_BER=0.023075 clean_PSNR=19.948 noisy_PSNR=20.563
+26-09-30 22:25:52.210 - INFO: Epoch 81: loss=1.608956 msg_BER=0.030017 val_BER=0.021187 clean_PSNR=20.156 noisy_PSNR=20.613
+26-09-30 22:33:28.859 - INFO: Epoch 82: loss=1.462706 msg_BER=0.026949 val_BER=0.023885 clean_PSNR=20.500 noisy_PSNR=20.782
+26-09-30 22:41:01.840 - INFO: Epoch 83: loss=1.519500 msg_BER=0.027912 val_BER=0.025343 clean_PSNR=20.127 noisy_PSNR=20.588
+26-09-30 22:50:34.962 - INFO: Epoch 84: loss=1.271606 msg_BER=0.023347 val_BER=0.023114 clean_PSNR=20.159 noisy_PSNR=20.604
+26-09-30 22:58:10.754 - INFO: Epoch 85: loss=1.689062 msg_BER=0.031422 val_BER=0.020346 clean_PSNR=19.909 noisy_PSNR=20.519
+26-09-30 23:08:00.351 - INFO: Epoch 86: loss=1.250824 msg_BER=0.023013 val_BER=0.029798 clean_PSNR=20.268 noisy_PSNR=20.665

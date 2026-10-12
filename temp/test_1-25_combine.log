@@ -1,0 +1,11 @@
+nohup: ignoring input
+job begin
+[RESUME] Loaded checkpoint: experiments/combined_noise_4kb/1-100/ckpt_4kb_00146.pt
+[RESUME] Starting from epoch: 147
+[RESUME] Loaded checkpoint: experiments/combined_noise_4kb/1-100/ckpt_4kb_00146.pt
+[RESUME] Starting from epoch: 147
+26-10-07 17:35:07.935 - INFO: Epoch 147: loss=0.088885 msg_BER=0.096787 val_BER=0.082377 clean_PSNR=36.548 noisy_PSNR=29.407 (lr=0.001000) (message_weight=1) (stego_weight=25)
+26-10-07 17:43:03.587 - INFO: Epoch 148: loss=0.088365 msg_BER=0.093222 val_BER=0.079272 clean_PSNR=36.223 noisy_PSNR=28.916 (lr=0.001000) (message_weight=1) (stego_weight=25)
+26-10-07 17:50:59.485 - INFO: Epoch 149: loss=0.088055 msg_BER=0.095355 val_BER=0.091726 clean_PSNR=36.522 noisy_PSNR=29.774 (lr=0.001000) (message_weight=1) (stego_weight=25)
+26-10-07 17:59:07.697 - INFO: Epoch 150: loss=52201334.706246 msg_BER=0.114815 val_BER=0.383864 clean_PSNR=34.934 noisy_PSNR=28.173 (lr=0.001000) (message_weight=1) (stego_weight=25)
+26-10-07 18:07:14.010 - INFO: Epoch 151: loss=0.259036 msg_BER=0.498957 val_BER=0.498008 clean_PSNR=57.521 noisy_PSNR=35.123 (lr=0.001000) (message_weight=1) (stego_weight=25)

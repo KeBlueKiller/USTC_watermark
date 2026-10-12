@@ -1,0 +1,10 @@
+{
+  "checkpoint": "/root/autodl-tmp/FIN-main_new/experiments/combined_noise_4kb/gaussian_noise/1-75/ckpt_4kb_00126.pt",
+  "test_root": "/root/autodl-tmp/FIN-main_new/test2017",
+  "num_images": 100,
+  "message_length": 32768,
+  "image_size": 1024,
+  "clean_PSNR": 37.25005088806152,
+  "clean_SSIM": 0.9979910659790039,
+  "results_csv": "results/test2017_gaussian/sec/test2017_results.csv"
+}

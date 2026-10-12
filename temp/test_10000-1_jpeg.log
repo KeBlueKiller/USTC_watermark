@@ -1,0 +1,26 @@
+nohup: ignoring input
+job begin
+[RESUME] Disabled; training starts from epoch 0
+26-10-05 17:23:53.804 - INFO: Epoch 0: loss=673.189958 msg_BER=0.081845 val_BER=0.041338 clean_PSNR=13.564 noisy_PSNR=13.482 (lr=0.001000) (message_weight=10000) (stego_weight=1)
+26-10-05 17:34:39.610 - INFO: Epoch 1: loss=1238.505047 msg_BER=0.178664 val_BER=0.207099 clean_PSNR=8.179 noisy_PSNR=8.331 (lr=0.001000) (message_weight=10000) (stego_weight=1)
+26-10-05 17:45:31.683 - INFO: Epoch 2: loss=1650.851759 msg_BER=0.242133 val_BER=0.342261 clean_PSNR=7.382 noisy_PSNR=7.563 (lr=0.001000) (message_weight=10000) (stego_weight=1)
+26-10-05 17:56:09.472 - INFO: Epoch 3: loss=2203.807004 msg_BER=0.350626 val_BER=0.341992 clean_PSNR=10.396 noisy_PSNR=10.539 (lr=0.001000) (message_weight=10000) (stego_weight=1)
+26-10-05 18:06:58.635 - INFO: Epoch 4: loss=1936.537789 msg_BER=0.304823 val_BER=0.431467 clean_PSNR=12.871 noisy_PSNR=12.984 (lr=0.001000) (message_weight=10000) (stego_weight=1)
+26-10-05 18:17:40.101 - INFO: Epoch 5: loss=3349.208742 msg_BER=0.276267 val_BER=0.270128 clean_PSNR=13.157 noisy_PSNR=13.263 (lr=0.001000) (message_weight=10000) (stego_weight=1)
+26-10-05 18:28:31.424 - INFO: Epoch 6: loss=1653.007680 msg_BER=0.250113 val_BER=0.286537 clean_PSNR=12.336 noisy_PSNR=12.442 (lr=0.001000) (message_weight=10000) (stego_weight=1)
+26-10-05 18:39:18.211 - INFO: Epoch 7: loss=1535.515965 msg_BER=0.228082 val_BER=0.241971 clean_PSNR=12.509 noisy_PSNR=12.608 (lr=0.001000) (message_weight=10000) (stego_weight=1)
+26-10-05 18:50:04.005 - INFO: Epoch 8: loss=1510.460729 msg_BER=0.224984 val_BER=0.222603 clean_PSNR=13.615 noisy_PSNR=13.738 (lr=0.001000) (message_weight=10000) (stego_weight=1)
+26-10-05 19:00:45.519 - INFO: Epoch 9: loss=1286.468107 msg_BER=0.181907 val_BER=0.224438 clean_PSNR=13.247 noisy_PSNR=13.360 (lr=0.001000) (message_weight=10000) (stego_weight=1)
+26-10-05 19:11:19.687 - INFO: Epoch 10: loss=1271.189564 msg_BER=0.184272 val_BER=0.201366 clean_PSNR=12.990 noisy_PSNR=13.109 (lr=0.001000) (message_weight=10000) (stego_weight=1)
+26-10-05 19:22:01.590 - INFO: Epoch 11: loss=1372.009702 msg_BER=0.191595 val_BER=0.151118 clean_PSNR=13.075 noisy_PSNR=13.193 (lr=0.001000) (message_weight=10000) (stego_weight=1)
+26-10-05 19:32:41.406 - INFO: Epoch 12: loss=1140.327273 msg_BER=0.165533 val_BER=0.176683 clean_PSNR=14.519 noisy_PSNR=14.614 (lr=0.001000) (message_weight=10000) (stego_weight=1)
+26-10-05 19:43:18.227 - INFO: Epoch 13: loss=1536.770502 msg_BER=0.224209 val_BER=0.225724 clean_PSNR=12.926 noisy_PSNR=13.050 (lr=0.001000) (message_weight=10000) (stego_weight=1)
+26-10-05 19:54:05.741 - INFO: Epoch 14: loss=1738.216568 msg_BER=0.267548 val_BER=0.312764 clean_PSNR=13.416 noisy_PSNR=13.539 (lr=0.001000) (message_weight=10000) (stego_weight=1)
+26-10-05 20:04:50.403 - INFO: Epoch 15: loss=1772.129331 msg_BER=0.272518 val_BER=0.242798 clean_PSNR=12.931 noisy_PSNR=13.069 (lr=0.001000) (message_weight=10000) (stego_weight=1)
+26-10-05 20:15:38.204 - INFO: Epoch 16: loss=1649.868094 msg_BER=0.252602 val_BER=0.256311 clean_PSNR=14.105 noisy_PSNR=14.239 (lr=0.001000) (message_weight=10000) (stego_weight=1)
+26-10-05 20:26:15.536 - INFO: Epoch 17: loss=5346380.038201 msg_BER=0.256935 val_BER=0.325597 clean_PSNR=14.232 noisy_PSNR=14.353 (lr=0.001000) (message_weight=10000) (stego_weight=1)
+26-10-05 20:37:11.970 - INFO: Epoch 18: loss=1565.842985 msg_BER=0.235580 val_BER=0.203606 clean_PSNR=14.955 noisy_PSNR=15.057 (lr=0.001000) (message_weight=10000) (stego_weight=1)
+26-10-05 20:48:39.701 - INFO: Epoch 19: loss=1803.584024 msg_BER=0.282115 val_BER=0.431400 clean_PSNR=13.813 noisy_PSNR=13.925 (lr=0.001000) (message_weight=10000) (stego_weight=1)
+26-10-05 20:59:20.384 - INFO: Epoch 20: loss=1705.627539 msg_BER=0.263635 val_BER=0.247640 clean_PSNR=14.104 noisy_PSNR=14.233 (lr=0.001000) (message_weight=10000) (stego_weight=1)
+Terminated
+job end
